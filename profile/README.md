@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b132b,50:1c2541,100:3a506b&text=HEXONEIRA&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Coding%20the%20dream,%20engineering%20the%20reality.&descAlignY=62&animation=fadeIn" alt="Hexoneira Banner" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:091e3a,50:132d52,100:1a3a52&text=HEXONEIRA&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Coding%20the%20dream,%20engineering%20the%20reality.&descAlignY=62&animation=fadeIn" alt="Hexoneira Banner" />
 </p>
 
 <p align="center">
